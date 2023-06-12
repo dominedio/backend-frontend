@@ -1,0 +1,27 @@
+{
+    "2646": {
+        "product_name": "MackBook",
+        "vendor": "Apple",
+        "price": "3500"
+    },
+    "3253": {
+        "product_name": "ASUS ZenBook",
+        "vendor": "ASUS",
+        "price": "800"
+    },
+    "395908": {
+        "product_name": "VivoBook",
+        "vendor": "ASUS",
+        "price": "1300"
+    },
+    "788339": {
+        "product_name": "VivoBook",
+        "vendor": "ASUS",
+        "price": "1300"
+    },
+    "955639": {
+        "product_name": "VivoBook",
+        "vendor": "ASUS",
+        "price": "1500"
+    }
+}
